@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/twitter/follow/overheardswift?style=social" alt="Twitter Follow">
-  <img src="https://komarev.com/ghpvc/?username=overheardswift&label=Profile%20views&color=0e75b6&style=flat" alt="overheardswift">
+  <img src="https://img.shields.io/twitter/follow/MainActorDev?style=social" alt="Twitter Follow">
+  <img src="https://komarev.com/ghpvc/?username=thatswiftdev&label=Profile%20views&color=0e75b6&style=flat" alt="overheardswift">
 </p>
 <h2 align="center">Hi 👋, I'm BK.</h2>
 <h3 align="center">I build iOS Applications and I'm a cyber security enthusiast.</h3>   
