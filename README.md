@@ -4,10 +4,10 @@
 </p>
 <h2 align="center">Hi 👋, I'm BK.</h2>
 <h3 align="center">I mainly build applications for Apple platform. A full-stack developer for side gigs. And a cyber security enthusiast.</h3>   
-<p align="center">
+<!-- <p align="center">
     <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
     <img src="https://img.shields.io/badge/iOS-12100E?style=for-the-badge&logo=apple&logoColor=white" alt="iOS">
-</p>
+</p> -->
 <hr/>
 
 ### Blog posts:
