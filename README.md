@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=thatswiftdev&label=Profile%20views&color=0e75b6&style=flat" alt="overheardswift">
 </p>
 <h2 align="center">Hi 👋, I'm BK.</h2>
-<h3 align="center">I build iOS Applications and I'm a cyber security enthusiast.</h3>   
+<h3 align="center">I mainly build applications for Apple platform. A full-stack developer for side gigs. And a cyber security enthusiast.</h3>   
 <p align="center">
     <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
     <img src="https://img.shields.io/badge/iOS-12100E?style=for-the-badge&logo=apple&logoColor=white" alt="iOS">
