@@ -9,7 +9,7 @@ let bk = Developer(name: "BK", based: "Indonesia")
         .swiftui,
         .ios,
         .macios,
-    ])  // the specialty
+    ])
     .goesWide(with: [
         .typescript,
         .python,
@@ -17,9 +17,9 @@ let bk = Developer(name: "BK", based: "Indonesia")
         .web,
         .android,
         .security,
-    ])  // the range
+    ])
     .building(at: "MainActorDev")
-    .writing(URL(string: "https://mainactor.dev"))  // non-optional in spirit
+    .writing(URL(string: "https://mainactor.dev"))
 ```
 
 ```bash
