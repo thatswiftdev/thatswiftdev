@@ -4,8 +4,9 @@ bk@mainactor ~ % cat whoami.swift
 
 ```swift
 let bk = Developer(name: "BK", based: "Indonesia")
-    .goesDeep(on: [.swift, .swiftui, .ios])                 // the specialty
-    .goesWide(with: [.typescript, .python, .agents, .web])  // the range
+    .goesDeep(on: [.swift, .swiftui, .ios, .macios])         // the specialty
+    .goesWide(with: [.typescript, .python, .agents, .web,
+                     .android, .security])                   // the range
     .building(at: "MainActorDev")
     .writing(URL(string: "https://mainactor.dev"))          // non-optional in spirit
 ```
