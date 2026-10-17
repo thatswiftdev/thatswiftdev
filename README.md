@@ -3,17 +3,11 @@ bk@mainactor ~ % cat whoami.swift
 ```
 
 ```swift
-@MainActor
-enum BK {
-    static let role = "Jack-of-All-Trades Developer"
-    static let base = "Indonesia"
-
-    static let goDeep = ["Swift", "SwiftUI", "iOS"]      // the specialty
-    static let goWide = ["TypeScript", "Python",
-                         "agent tooling", "web"]         // the range
-
-    static let blog = URL(string: "https://mainactor.dev")  // non-nil, verified
-}
+let bk = Developer(name: "BK", based: "Indonesia")
+    .goesDeep(on: [.swift, .swiftui, .ios])                 // the specialty
+    .goesWide(with: [.typescript, .python, .agents, .web])  // the range
+    .building(at: "MainActorDev")
+    .writing(URL(string: "https://mainactor.dev"))          // non-optional in spirit
 ```
 
 ```bash
