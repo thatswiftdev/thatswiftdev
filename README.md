@@ -2,12 +2,23 @@
 
 ```text
 Last login: Mon Dec 2 10:41:51 2019 on ttys001
-bk@mainactor ~ % swift run bk
-    ____  __ __
-   / __ )/ //_/
-  / __  / ,<
- / /_/ / /| |
-/_____/_/ |_|
+bk@mainactor ~ % neofetch
+                 ,xNMM.          bk  @mainactor
+               .OMMMMo           ----------------------
+               lMM"              OS  iOS
+     .;loddo:.  .olloddol;.      Host  MainActorDev
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Kernel  Swift
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Uptime  6 yrs (since Dec 2019)
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell  zsh
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Editor  Xcode
+:MMMMMMMMMMMMMMMMMMMMMMMM:       Focus  SwiftUI · UIKit
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      Stars  257 across 9 lists
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Blog  mainactor.dev
+ 'XMMMMMMMMMMMMMMMMMMMMMMMMMMk
+  'XMMMMMMMMMMMMMMMMMMMMMMMMK.
+    kMMMMMMMMMMMMMMMMMMMMMMd
+     ;KMMMMMMMWXXWMMMMMMMk.
+       "cooc*"    "*coo'"
 ```
 
 ```bash
@@ -65,6 +76,25 @@ USAGE: bk <command>
 
 ```bash
 bk@mainactor ~ % open https://mainactor.dev
+```
+
+```text
+█████████████████████████████████
+████ ▄▄▄▄▄ ██▀▄██▄  ▄█ ▄▄▄▄▄ ████
+████ █   █ █▄▀█▄▀█   █ █   █ ████
+████ █▄▄▄█ ██▄▀▀ ▀  ▀█ █▄▄▄█ ████
+████▄▄▄▄▄▄▄█ █▄▀▄▀▄█ █▄▄▄▄▄▄▄████
+████  ▄▀▄▄▄▄▄▀█▀  █▄   ███▄█▀████
+████▀▀▄ ▀▄▄▀▀▀ ▄ ▀▀▀ █▄▄ █▄ ▄████
+████▄▄█ █▀▄  ▀  █ ▀█▀  ██ █▄ ████
+████▄▀▄█ ▄▄▄▀▄▀▀█ █████▄▀█▄ ▄████
+████▄█▄█▄▄▄▄ █▀▀ █▄▀ ▄▄▄  █▀▀████
+████ ▄▄▄▄▄ █ █▀▄  ▄▄ █▄█  █  ████
+████ █   █ █▄ █ ██▄█▄▄▄   ▀▄▄████
+████ █▄▄▄█ █ ▄▄▀█▄█▀ █▀█ ▀█▀▄████
+████▄▄▄▄▄▄▄█▄███▄██▄▄██▄███▄▄████
+█████████████████████████████████
+       mainactor.dev — scan me
 ```
 
 <!-- the build never stops. -->
